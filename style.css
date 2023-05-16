@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Josefin+Sans:ital@1&family=Open+Sans&family=Playfair+Display:ital@1&family=Secular+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.playlist{
+    background: rgb(236,97,3);
+background: linear-gradient(90deg, rgba(236,97,3,1) 0%, rgba(154,154,154,1) 100%);
+}
+
+.nombre-playlist{
+    display: flex;
+    align-items: center;
+    
+
+}
+.imagen-lista img{
+    width: 280px;
+}
+.info-playlist{
+    margin-left: 40px;
+}
+.lista-titulo{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    margin-left: 10px;
+}
+.lista-titulo li{
+    font-size: 25px;
+    margin-top: 53px;
+}
+.concejodeoro{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 30px;
+
+}
+.imagen2 img{
+    width: 80px;
+    margin-left: 220px;
+}
+.texto1{
+    margin-left: 20px;
+    font-size: 10px;
+}
+.primero{
+    margin-left: 90px;
+}
+.album1 p{
+    margin-left: 100px;
+}
+.agregado1 p{
+    margin-left: 220px;
+}
+.tiempo1 p{
+    margin-left: 225px;
+}
+.buena-cejon{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 30px;
+
+}
+.imagen3 img{
+    width: 50px;
+    margin-left: 220px;
+}
+.texto2{
+    margin-left: 50px;
+    font-size: 10px;
+}
+.segundo{
+    margin-left: 90px;
+}
+.album2 p{
+    margin-left: 120px;
+}
+.agregado2 p{
+    margin-left: 220px;
+}
+.tiempo2 p{
+    margin-left: 225px;
+}
+.album3 p{
+    margin-left: 115px;
+}
+.tiempo3 p{
+    margin-left: 215px;
+}
+.album4 p{
+    margin-left: 148px;
+}
+.agregado4{
+    margin-left: 245px;
+}
+.album5{
+    margin-left: 83px;
+}
+.tiempo5{
+    margin-left: 215px;
+}
+.tiempo4{
+    margin-left: 218px;
+}
+body{
+    background: rgb(195,115,34);
+background: linear-gradient(0deg, rgba(195,115,34,1) 0%, rgba(255,133,0,0.34450276692708337) 100%);
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Secular One', sans-serif;
+}
+.albun{
+    margin-left: 80px;
+}
+.agg{
+    margin-left: 100px;
+}
+
+.titu{
+    margin-left: 40px;
+}
